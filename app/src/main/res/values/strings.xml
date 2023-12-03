@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Internet Check</string>
+
+    <string name="tv_noi_t">ইন্টারনেট নেই!</string>
+    <string name="tv_noc_t">ডেটা কানেকশন নেই!</string>
+    <string name="tv_err_con_t">অনাকাঙ্খিত ত্রুটি!</string>
+    <string name="tv_int_ok_t">অভিনন্দন!</string>
+
+
+
+    <string name="tv_noc_m">অনুগ্রহ করে আপনার Wi-Fi বা মোবাইল Data সংযোগ চালু করুন৷!</string>
+    <string name="tv_noi_m">অনুগ্রহ করে আপনার Wi-Fi বা মোবাইল Data সংযোগ যাচাই করুন৷!</string>
+    <string name="tv_err_con_m">সার্ভারের সাথে সংযোগ স্থাপন ব্যর্থ হয়েছে! অনুগ্রহপূর্বক আবার চেষ্টা করুন.</string>
+    <string name="tv_int_ok_m">আপনার ইন্টারনেট সচল আছে.</string>
+</resources>
